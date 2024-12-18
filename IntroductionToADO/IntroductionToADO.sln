@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionToADO", "Introd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library2", "Library2\Library2.csproj", "{95A4FBD1-00AC-460A-BDB9-0BF2FD2EB07B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy", "Academy\Academy.csproj", "{7E81E054-BFE4-4697-99EC-744928D72850}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{95A4FBD1-00AC-460A-BDB9-0BF2FD2EB07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95A4FBD1-00AC-460A-BDB9-0BF2FD2EB07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95A4FBD1-00AC-460A-BDB9-0BF2FD2EB07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E81E054-BFE4-4697-99EC-744928D72850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E81E054-BFE4-4697-99EC-744928D72850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E81E054-BFE4-4697-99EC-744928D72850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E81E054-BFE4-4697-99EC-744928D72850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
